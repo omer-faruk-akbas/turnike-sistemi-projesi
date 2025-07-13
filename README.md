@@ -32,7 +32,7 @@
 
 | Giriş Ekranı | Kayıt Ekranı | RFID Tarama |
 |--------------|--------------|-------------|
-| ![Giriş Ekranı](images/giris.jpg) | ![Kayıt Ekranı](images/kayit.jpg) | ![RFID](images/rfid.jpg) |
+| ![Giriş Ekranı](images/giriş.jpg) | ![Kayıt Ekranı](images/kayıt.jpg) | ![RFID](images/rfid.jpg) |
 
 | Kullanıcı Paneli | Yönetici Paneli | Yönetici İşlemleri |
 |------------------|-----------------|--------------------|
